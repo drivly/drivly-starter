@@ -1,9 +1,8 @@
 # Drivly Starter Template 
 Next generation template for building next generation applications...
 
-## Loaded with Next.js + Tailwind CSS + Next Auth + React Hook Form
+## Loaded with Next.js + Tailwind CSS + React Hook Form
 This example comes with [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. 
-Next Auth is included to setup authentication [Next Auth](https://next-auth.js.org/)
 React Hook Form covers handling any forms [React Hook Form](https://react-hook-form.com/)
 
 ## Deploy your own
